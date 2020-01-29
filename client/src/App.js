@@ -5,6 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 // import About from './pages/About';
 import Headline from './Components/Headline/Headline';
 import Projects from './Components/Projects/Projects';
+import Connect from './Components/Connect/Connect';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Headline/>
       <Projects/>
       {/* <About/> */}
+      <Connect/>
     </div>
   );
 }

@@ -209,7 +209,7 @@ class Projects extends Component {
                 <div>
                     <Fade bottom big>
                         <h4>
-                            Express, Mongo, 
+                            Mongo, Express, React, Node [ MERN ]
                         </h4>
                     </Fade>
                 </div>
@@ -235,10 +235,11 @@ class Projects extends Component {
                 <Fade bottom big>
                     <header>
                         <h4>
-                            
+                            Shopping List (with redux!) [In Development]
                         </h4>
                         <br/>
-                        <Image src={bamazon} style={{width: "800px"}} />
+                        <h4>Gif Coming Soon</h4>
+                        {/* <Image src={bamazon} style={{width: "800px"}} /> */}
                     </header>
                 </Fade>
             </>
