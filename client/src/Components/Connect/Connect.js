@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Container, Row, Col, Image } from 'react-bootstrap'
+import { Container, Row, Col, Image } from 'react-bootstrap';
 
 import LinkedinImg from './iconfinder_linkedin_circle_gray_107149 (1).png';
 import GithubImg from './iconfinder_github_circle_gray_107139.png';
